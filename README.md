@@ -1,5 +1,5 @@
 # CraigslistBots
 
-Run CraigslistBoy.py
+Run CraigslistBot.py
 
 Lambda function incomplete (craigslisttv-server)
